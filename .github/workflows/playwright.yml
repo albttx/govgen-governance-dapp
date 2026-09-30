@@ -19,7 +19,7 @@ jobs:
     - name: Install serve
       run: npm install -g serve
     - name: Install Playwright Browsers
-      run: pnpm exec playwright install --with-deps
+      run: pnpm exec playwright install
     - name: Build
       run: pnpm build
     - name: Run Playwright tests
