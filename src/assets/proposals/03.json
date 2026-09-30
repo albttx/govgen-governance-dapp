@@ -8736,7 +8736,7 @@
 			],
 			"id": 3,
 			"proposer_address": "govgen17q46kv0ulh4j3wglusmfgndnpzghexazdr897m",
-			"status": "PROPOSAL_STATUS_VOTING_PERIOD",
+			"status": "PROPOSAL_STATUS_PASSED",
 			"submit_time": "2024-09-16T15:23:43.588",
 			"title": "AtomOne Constitution",
 			"voting_end_time": "2025-09-20T08:33:40.495656",

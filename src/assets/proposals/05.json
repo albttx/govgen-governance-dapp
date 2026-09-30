@@ -8778,7 +8778,7 @@
 			],
 			"id": 5,
 			"proposer_address": "govgen10q4dtmakqcghyxx7cdku92m7ws6fsj3t9e8eqe",
-			"status": "PROPOSAL_STATUS_VOTING_PERIOD",
+			"status": "PROPOSAL_STATUS_PASSED",
 			"submit_time": "2024-09-17T08:34:24.894",
 			"title": "Cosmos' softwares versioning",
 			"voting_end_time": "2025-09-20T08:34:03.55429",

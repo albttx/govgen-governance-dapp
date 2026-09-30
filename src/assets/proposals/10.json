@@ -504,7 +504,7 @@
 			],
 			"id": 10,
 			"proposer_address": "govgen1ehkfl7palwrh6w2hhr2yfrgrq8jetgucpqstvj",
-			"status": "PROPOSAL_STATUS_VOTING_PERIOD",
+			"status": "PROPOSAL_STATUS_PASSED",
 			"submit_time": "2025-05-08T16:21:26.672",
 			"title": "Govgen chain sunset",
 			"voting_end_time": "2026-05-08T16:21:26.672",

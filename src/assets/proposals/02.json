@@ -9625,7 +9625,7 @@
 			],
 			"id": 2,
 			"proposer_address": "govgen17mggn4znyeyg25wd7498qxl7r2jhgue8pcjjat",
-			"status": "PROPOSAL_STATUS_VOTING_PERIOD",
+			"status": "PROPOSAL_STATUS_PASSED",
 			"submit_time": "2024-09-14T20:03:12.953",
 			"title": "AtomOne Tokenomics",
 			"voting_end_time": "2025-09-17T22:16:12.209195",

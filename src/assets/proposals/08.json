@@ -5817,7 +5817,7 @@
 			],
 			"id": 8,
 			"proposer_address": "govgen15hmqrc245kryaehxlch7scl9d9znxa58c088sn",
-			"status": "PROPOSAL_STATUS_VOTING_PERIOD",
+			"status": "PROPOSAL_STATUS_PASSED",
 			"submit_time": "2024-10-02T06:29:11.858",
 			"title": "AtomOne Logo Selection Option #3",
 			"voting_end_time": "2025-10-02T06:29:11.858",

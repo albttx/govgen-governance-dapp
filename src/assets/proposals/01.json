@@ -9898,7 +9898,7 @@
 			],
 			"id": 1,
 			"proposer_address": "govgen1efaxhfuqlvl7ka47kechgmuddpxzpxgep22lex",
-			"status": "PROPOSAL_STATUS_VOTING_PERIOD",
+			"status": "PROPOSAL_STATUS_PASSED",
 			"submit_time": "2024-09-14T15:33:53.842",
 			"title": "Equitable ATONE Distribution in the Spirit of AtomOne's Founding Principles",
 			"voting_end_time": "2025-09-20T08:27:17.470083",

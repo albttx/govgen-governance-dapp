@@ -9247,7 +9247,7 @@
 			],
 			"id": 4,
 			"proposer_address": "govgen1ehkfl7palwrh6w2hhr2yfrgrq8jetgucpqstvj",
-			"status": "PROPOSAL_STATUS_VOTING_PERIOD",
+			"status": "PROPOSAL_STATUS_PASSED",
 			"submit_time": "2024-09-16T19:50:41.888",
 			"title": "AtomOne Roadmap",
 			"voting_end_time": "2025-09-18T11:16:51.276125",
