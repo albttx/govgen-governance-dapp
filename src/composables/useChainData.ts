@@ -179,7 +179,7 @@ export const useChainData = () => {
     return result;
   };
   const getValidators = () => {
-    return ref([]) as unknown as ReturnType<typeof useValidatorsQuery>["result"];
+    return ref({ block: [{ validator_statuses: [] }] }) as unknown as ReturnType<typeof useValidatorsQuery>["result"];
   };
   const getVotes = (address: string, proposalId: number) => {
     const proposal = getStaticProposal(proposalId);
